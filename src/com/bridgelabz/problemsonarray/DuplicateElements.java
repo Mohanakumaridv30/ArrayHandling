@@ -1,5 +1,6 @@
 package com.bridgelabz.problemsonarray;
 
+
 public class DuplicateElements {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 2, 4, 4, 3, 5, 5, 6, 7, 7, 8};
